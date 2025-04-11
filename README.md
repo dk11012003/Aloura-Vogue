@@ -1,4 +1,4 @@
-                                                                                    ALOURA.VOGUE
+ ALOURA.VOGUE
 
 This is the full code and representation of the code of my application Aloura.Vogue
 You can have the Preview of the code and can check it...
